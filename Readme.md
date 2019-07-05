@@ -7,3 +7,5 @@ Fazendo mais testes...
 
 testando o diff
 testando o diff pt ii (revendo)
+
+testando diff dnv kk
